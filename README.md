@@ -1,3 +1,9 @@
+# Proyek Dart Saya
+
+Berikut tampilan aplikasi saya:
+
+![Tampilan Aplikasi](images/screenshot.png)
+
 # financeapp
 
 A new Flutter project.
